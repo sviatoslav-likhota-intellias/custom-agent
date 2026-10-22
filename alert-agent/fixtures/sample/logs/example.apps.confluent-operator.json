@@ -1,0 +1,266 @@
+[
+ {
+  "time": "2026-10-22T07:53:00.000Z",
+  "env": "stg",
+  "level": "INFO",
+  "message": "Rolling restart of kafka cluster started (reason: config change)"
+ },
+ {
+  "time": "2026-10-22T07:54:00.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:01.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:02.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:03.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:04.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:05.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:06.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:07.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:08.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:09.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:10.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:11.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:12.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:13.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:14.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:15.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:16.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:17.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:18.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:19.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:20.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:21.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:22.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:23.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:24.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:25.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:26.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:27.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:28.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:29.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:30.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:31.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:32.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:33.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:34.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:35.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:36.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:37.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-1 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:38.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-2 not ready"
+ },
+ {
+  "time": "2026-10-22T07:54:39.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Failed to reconcile kafka broker: pod kafka-0 not ready"
+ },
+ {
+  "time": "2026-10-22T07:56:00.000Z",
+  "env": "stg",
+  "level": "WARN",
+  "message": "Leader election in progress for 37 partitions"
+ },
+ {
+  "time": "2026-10-22T07:57:00.000Z",
+  "env": "stg",
+  "level": "ERROR",
+  "message": "Certificate for kafka-external listener expires in 3 days"
+ },
+ {
+  "time": "2026-10-22T07:58:00.000Z",
+  "env": "stg",
+  "level": "INFO",
+  "message": "Rolling restart of kafka cluster finished"
+ }
+]

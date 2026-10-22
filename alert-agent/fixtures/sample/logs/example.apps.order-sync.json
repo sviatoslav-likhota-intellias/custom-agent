@@ -1,0 +1,722 @@
+[
+ {
+  "time": "2026-10-22T07:58:00.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:01.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:02.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:03.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:04.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:05.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:06.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:07.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:08.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:09.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:10.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:11.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:12.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:13.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:14.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:15.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:16.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:17.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:18.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:19.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:20.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:21.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:22.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:23.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:24.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:25.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:26.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:27.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:28.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:29.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:30.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:31.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:32.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:33.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:34.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:35.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:36.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:37.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:38.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:39.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:40.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:41.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:42.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:43.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:44.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:45.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:46.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:47.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:48.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:49.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:50.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:51.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:52.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:53.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:54.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:55.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:56.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:57.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:58.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:58:59.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:00.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:01.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:02.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:03.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:04.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:05.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:06.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:07.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:08.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:09.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:10.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:11.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:12.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:13.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:14.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:15.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:16.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:17.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:18.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:19.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:20.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:21.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:22.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:23.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:24.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:25.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:26.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:27.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:28.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:29.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:30.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:31.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:32.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:33.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:34.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:35.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:36.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:37.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:38.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:39.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:40.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:41.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:42.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:43.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:44.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:45.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:46.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:47.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:48.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:49.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:50.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:51.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:52.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:53.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:54.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 0: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:55.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 1: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:56.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 2: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:57.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 3: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:58.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 4: deserialization error, unknown schema id 1043"
+ },
+ {
+  "time": "2026-10-22T07:59:59.000Z",
+  "env": "prd",
+  "level": "ERROR",
+  "message": "Processing failed for partition 5: deserialization error, unknown schema id 1043"
+ }
+]

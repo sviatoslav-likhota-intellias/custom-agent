@@ -1,0 +1,22 @@
+{
+  "data": {
+    "alias": "kafka-lag-prd",
+    "tinyId": "1202",
+    "count": 4,
+    "tags": [
+      "prd"
+    ],
+    "message": "Kafka Consumer Group Lag [prd]",
+    "createdAt": "2026-10-22T07:40:00.000Z",
+    "lastOccurredAt": "2026-10-22T07:58:00.000Z",
+    "description": "Consumer group lag above 10000 for 15 min.",
+    "details": {
+      "consumerGroup": "example.apps.order-sync",
+      "lag": "48211"
+    },
+    "status": "open",
+    "acknowledged": false,
+    "priority": "P3",
+    "source": "Watcher"
+  }
+}

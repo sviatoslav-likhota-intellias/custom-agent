@@ -1,0 +1,19 @@
+{
+  "data": {
+    "alias": "kafka-urp-stg",
+    "tinyId": "1203",
+    "count": 2,
+    "tags": [
+      "stg"
+    ],
+    "message": "Kafka Under Replicated Partitions [stg]",
+    "createdAt": "2026-10-22T07:50:00.000Z",
+    "lastOccurredAt": "2026-10-22T07:55:00.000Z",
+    "description": "Under replicated partitions: 37",
+    "details": {},
+    "status": "open",
+    "acknowledged": false,
+    "priority": "P3",
+    "source": "Watcher"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "data": [
+    {
+      "alias": "example-errors-dev-connector-integration2",
+      "tinyId": "1205",
+      "count": 1,
+      "tags": [
+        "dev"
+      ],
+      "message": "Example Error Logs Connector Integration2 alert - [dev][example.services.service-connector-integration2]",
+      "createdAt": "2026-10-22T07:57:00.000Z",
+      "lastOccurredAt": "2026-10-22T07:57:00.000Z",
+      "status": "open",
+      "acknowledged": false,
+      "priority": "P3",
+      "source": "Watcher"
+    },
+    {
+      "alias": "example-errors-prd-connector-integration1",
+      "tinyId": "1201",
+      "count": 9,
+      "tags": [
+        "prd"
+      ],
+      "message": "Example Error Logs Connector Integration1 alert - [prd][example.services.service-connector-integration1]",
+      "createdAt": "2026-10-22T07:15:00.000Z",
+      "lastOccurredAt": "2026-10-22T08:00:00.000Z",
+      "status": "open",
+      "acknowledged": false,
+      "priority": "P3",
+      "source": "Watcher"
+    },
+    {
+      "alias": "example-errors-stg-confluent-operator",
+      "tinyId": "1204",
+      "count": 2,
+      "tags": [
+        "stg"
+      ],
+      "message": "Example Error Logs alert - [stg][example.apps.confluent-operator][confluent-operator-5c7f9d8b6a-k2x7q]",
+      "createdAt": "2026-10-22T07:50:00.000Z",
+      "lastOccurredAt": "2026-10-22T07:55:00.000Z",
+      "status": "open",
+      "acknowledged": false,
+      "priority": "P3",
+      "source": "Watcher"
+    },
+    {
+      "alias": "kafka-lag-prd",
+      "tinyId": "1202",
+      "count": 4,
+      "tags": [
+        "prd"
+      ],
+      "message": "Kafka Consumer Group Lag [prd]",
+      "createdAt": "2026-10-22T07:40:00.000Z",
+      "lastOccurredAt": "2026-10-22T07:58:00.000Z",
+      "status": "open",
+      "acknowledged": false,
+      "priority": "P3",
+      "source": "Watcher"
+    },
+    {
+      "alias": "kafka-urp-stg",
+      "tinyId": "1203",
+      "count": 2,
+      "tags": [
+        "stg"
+      ],
+      "message": "Kafka Under Replicated Partitions [stg]",
+      "createdAt": "2026-10-22T07:50:00.000Z",
+      "lastOccurredAt": "2026-10-22T07:55:00.000Z",
+      "status": "open",
+      "acknowledged": false,
+      "priority": "P3",
+      "source": "Watcher"
+    }
+  ]
+}

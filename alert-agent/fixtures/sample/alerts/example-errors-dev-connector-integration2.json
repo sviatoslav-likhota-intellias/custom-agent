@@ -1,0 +1,19 @@
+{
+  "data": {
+    "alias": "example-errors-dev-connector-integration2",
+    "tinyId": "1205",
+    "count": 1,
+    "tags": [
+      "dev"
+    ],
+    "message": "Example Error Logs Connector Integration2 alert - [dev][example.services.service-connector-integration2]",
+    "createdAt": "2026-10-22T07:57:00.000Z",
+    "lastOccurredAt": "2026-10-22T07:57:00.000Z",
+    "description": "Log Message:\nERROR Integration2 token refresh failed: 401 Unauthorized password=hunter2\nKibana: https://kibana.example.internal/app/discover#/?_g=(time:(from:'2026-10-22T07:52:00.000Z',to:'2026-10-22T08:02:00.000Z'))&_a=(query:(language:kuery,query:''))",
+    "details": {},
+    "status": "open",
+    "acknowledged": false,
+    "priority": "P3",
+    "source": "Watcher"
+  }
+}

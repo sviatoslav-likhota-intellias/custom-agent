@@ -1,0 +1,21 @@
+# IDE settings
+.idea/
+.vscode/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Secrets and local environment
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Gradle build output
+.gradle/
+build/
+m2-demo/
+sent/

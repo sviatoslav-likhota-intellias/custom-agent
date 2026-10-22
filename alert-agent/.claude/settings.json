@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python scripts/alert_tools.py *)",
+      "Bash(python3 scripts/alert_tools.py *)"
+    ],
+    "deny": [
+      "Edit",
+      "Write",
+      "WebFetch",
+      "Bash(curl *)",
+      "Read(./.env)",
+      "Read(./fixtures/**)"
+    ]
+  }
+}
